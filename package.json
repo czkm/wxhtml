@@ -1,0 +1,18 @@
+{
+  "name": "wx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "czk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.19"
+  }
+}
